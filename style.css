@@ -23,7 +23,7 @@
 body {
     font-family: "Inknut Antiqua", serif;
     background-image: url('/img/fundo1.jpeg');
-    background-size: auto;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -86,3 +86,4 @@ footer {
     color: var(--vermelho);
     font-weight: bold;
 }
+
